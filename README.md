@@ -1,2 +1,2 @@
 # Client-Server
-Terminal Based Client Server APplication
+Terminal Based Client Server Application
